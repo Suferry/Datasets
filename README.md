@@ -5,7 +5,7 @@ THE PROJECT WAS DONE FINISHED IN MAY 29th 2023, THIS IS JUST THE RECAP OF THE PR
 
 # ========== INTRODUCTION ==========
 
-This repository contains code for Deep Learning AoL (Assessment of Learning) project on using few-shot learning to classify Chinese characters from the MNIST dataset. 
+This repository contains code for Deep Learning AoL (Assessment of Learning) project on using few-shot learning to classify Chinese characters from the [MNIST dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist). 
 The project was not successful in achieving the desired results, but it is still a valuable learning experience.
 
 # ========== MOTIVATION ==========
